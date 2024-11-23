@@ -1,4 +1,4 @@
-# Run command on console
+# Run command
 ```bash
 go run .
 ```
