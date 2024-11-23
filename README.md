@@ -1,1 +1,4 @@
-# go run .
+# Run command on console
+```bash
+go run .
+```
